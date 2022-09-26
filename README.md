@@ -1,2 +1,3 @@
 # Calculadora-Assembly-8086
-Calculadora com operações básicas, algumas funções da calculadora científica e converções de bases numéricas.
+
+Este projeto foi desenvolvido durante a disciplina de Organização de Sistemas Computacionais (OSLM), é um calculadora com algumas funções além da operações básicas. A estrutura utilizada era em assembly 8086.
