@@ -8,4 +8,4 @@ João Luís Beato Cardoso  - JoaoLuisBeato
 
 André Luís Bianchini Filho - Andrezinho51
 
-Rafael Rodrigues Sato -  
+Rafael Rodrigues Sato -  RafelSato
