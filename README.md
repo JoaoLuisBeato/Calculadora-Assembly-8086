@@ -4,8 +4,8 @@ Este projeto foi desenvolvido durante a disciplina de Organização de Sistemas 
 
 Desenvolvedores:
 
-João Luís Beato Cardoso  -  JoaoLuisBeato
+João Luís Beato Cardoso  -> JoaoLuisBeato
 
-André Luís Bianchini Filho -  Andrezinho51
+André Luís Bianchini Filho -> Andrezinho51
 
-Rafael Rodrigues Sato -   RafelSato
+Rafael Rodrigues Sato -> RafelSato
